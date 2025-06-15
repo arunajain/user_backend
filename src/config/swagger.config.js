@@ -2,7 +2,7 @@ export default {
   swaggerDefinition: {
     openapi: '3.0.0',
     info: {
-      title: 'Nodejs-Starter-Template API',
+      title: 'User-Backend API',
       version: '1.0.0',
       description: 'The API documentation of a boilerplate/starter project for quickly building RESTful APIs using Node.js, Express, and Mongoose.',
       license: {
